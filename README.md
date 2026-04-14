@@ -10,10 +10,10 @@ The module uses the following components:
 - Active Buzzer
 - Red LED
 
-🔗 Check out the FULL project here: 
-https://basavaprabhuani.github.io/projects/proximity_sensor
+## 🔗 Check out the FULL project here: 
+## https://basavaprabhuani.github.io/projects/proximity_sensor
 
-🔗 Watch YouTube Demo here: 
-https://www.youtube.com/watch?v=eT85A3h6H-w
+## 🔗 Watch YouTube Demo here: 
+## https://www.youtube.com/watch?v=eT85A3h6H-w
 
 
